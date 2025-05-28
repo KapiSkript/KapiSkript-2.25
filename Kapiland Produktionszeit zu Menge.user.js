@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Berechne Produktionsmenge aus Zeitangabe in HH:MM
-// @match        http://*.kapilands.eu/main.php?page=roh&art=*
+// @match        http*://*.kapilands.eu/main.php?page=roh&art=*
 // @grant        none
 // ==/UserScript==
 

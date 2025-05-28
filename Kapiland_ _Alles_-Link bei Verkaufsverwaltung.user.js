@@ -4,7 +4,7 @@
 // @version      1.1
 // @description  Fügt einen "Alles"-Link unter jedem Eingabefeld ein, um die gesamte verfügbare Menge automatisch einzutragen
 // @author       ChatGPT
-// @match        http://s1.kapilands.eu/main.php?page=verw_k*
+// @match        http*://*.kapilands.eu/main.php?page=verw_k*
 // @grant        none
 // ==/UserScript==
 

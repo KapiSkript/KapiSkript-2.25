@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.12
 // @description  Speichert Produktionsdaten, Voraussetzung für das Verwaltungsgebäude-Script!
-// @match        http://*.kapilands.eu/main.php?page=roh*
+// @match        http*://*.kapilands.eu/main.php?page=roh*
 // @grant        none
 // ==/UserScript==
 

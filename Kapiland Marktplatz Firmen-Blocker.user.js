@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.8
 // @description  Blockiere Firmen im Marktplatz (UI neben Überschrift platzieren, kompakte Buttons)
-// @match        http://*.kapilands.eu/main.php?page=markt*
+// @match        http*://*.kapilands.eu/main.php?page=markt*
 // @grant        none
 // ==/UserScript==
 

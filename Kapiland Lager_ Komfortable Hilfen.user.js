@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.6
 // @description  Fügt "Alles"-Links und Berechnungen für Warenwert, Gewinn, Umsatz und ggf. Gebühren hinzu
-// @match        http://*.kapilands.eu/main.php?page=lager*
+// @match        http*://*.kapilands.eu/main.php?page=lager*
 // @grant        none
 // ==/UserScript==
 
